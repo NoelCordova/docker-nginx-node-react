@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-server",
+  "version": "0.1.0",
+  "description": "Ejemplo de un servidor node con express",
+  "author": "Edgar Noel Espino Córdova <noelespinocordova@gmail.com>",
+  "repository": "https://github.com/NoelCordova/docker-nginx-node-react",
+  "license": "MIT",
+  "keywords": ["express", "docker"],
+  "main": "app/",
+  "scripts": {
+    "start": "node app/"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
